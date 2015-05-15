@@ -8,7 +8,7 @@ header-img: "img/hello-material-library.jpg"
 comments: 	true
 ---
 
-Ever since Google announces Material Design language, I already took a liking to it. And I can't wait until the AppCompat team release a new version, so I decided that I should do it myself. I studied all the specifications of Material Design on [Google's site](http://www.google.com/design/spec/material-design/introduction.html) carefully, and tried to bring those features to pre-Lolipop devices as much as possible. Now, I’m really glad to introduce you to my Material library, a library that provide fully animated material components to Android 2.3+.
+Ever since Google announces Material Design language, I already took a liking to it. And I couldn't wait until the AppCompat team release a new version, so I decided that I should do it myself. I studied all the specifications of Material Design on [Google's site](http://www.google.com/design/spec/material-design/introduction.html) carefully, and tried to bring those features to pre-Lolipop devices as much as possible. Now, I’m really glad to introduce you to my Material library, a library that provide fully animated material components to Android 2.3+.
 
 ##The different between AppCompat library and Material library
 
