@@ -77,3 +77,10 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+
+{% if page.carousel %}
+	<!-- Flexslider Library  -->
+	<script src="{{ "/js/jquery.flexslider-min.js " | prepend: site.baseurl }}"></script>
+	<!-- Initialisation Code  -->
+	<script src="{{ "/js/init-flexslider.js " | prepend: site.baseurl }}"></script>
+{% endif %}
