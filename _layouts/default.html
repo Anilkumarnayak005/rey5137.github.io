@@ -12,6 +12,10 @@
     {% include footer.html %}
 	
 	{% include googleanalytics.html %}
+	
+	{% if page.comments %}
+		{% include disqus.html %}
+	{% endif %}
 
 </body>
 
