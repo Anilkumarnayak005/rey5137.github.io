@@ -10,7 +10,7 @@ tags:		Android Tutorial
 ---
 
 Sometimes you really want to apply some specific visual to your app, and if you look for answer on the web, most of them is **write your own Drawable class**.  
-So what is **Drawable**? Here is definition: A **Drawable** is a general abstraction for "something that can be drawn".  
+So what is **Drawable**? Here is class definition: A **Drawable** is a general abstraction for "something that can be drawn".  
 Ok, we have **Drawable** class. But how we can use it, or how we can add it to a view? And that what this tutorial is for.
 
 Now, let's try to create a border for ImageView. Here is the result we want:
