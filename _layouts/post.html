@@ -29,11 +29,7 @@ comments: true
 				{{ content }}
 				
 				<hr>
-				
-				{% if page.comments %}
-					<div id="livefyre-comments"></div>
-				{% endif %}
-								
+					
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -46,6 +42,12 @@ comments: true
                     </li>
                     {% endif %}
                 </ul>
+				
+				{% if page.comments %}
+					<hr>
+				
+					<div id="livefyre-comments"></div>
+				{% endif %}
 
             </div>
         </div>

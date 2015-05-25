@@ -40,6 +40,16 @@ hr.small {
   border-width: 4px;
   border-color: white;
 }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+code {
+  color: #0085a1;
+  background-color: #F8F8F8;
+}
 .navbar-custom {
   background: white;
   position: absolute;

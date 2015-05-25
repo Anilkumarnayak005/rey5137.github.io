@@ -16,13 +16,13 @@ Ever since Google announces Material Design language, I already took a liking to
 
 Although the AppCompat team did a great work to back-port many useful features like Theming, tint aware widgets, Toolbar, RecyclerView, ..., I still feel that isn't enough. I want the RippleEffect, state animation widgets, materialize dialogs. And that is what Material library supports.
 
-![](https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif)
+![](https://github.com/rey5137/Material/raw/master/image/progress_circular_indeterminate.gif){: .center-image }
 
-![](https://github.com/rey5137/Material/raw/master/image/fab_line.gif)   
+![](https://github.com/rey5137/Material/raw/master/image/fab_line.gif){: .center-image }   
 
-![](https://github.com/rey5137/Material/raw/master/image/cb.gif)
+![](https://github.com/rey5137/Material/raw/master/image/cb.gif){: .center-image }
 
-![](https://github.com/rey5137/Material/raw/master/image/slider_discrete.gif)
+![](https://github.com/rey5137/Material/raw/master/image/slider_discrete.gif){: .center-image }
 
 
 ##Why have I name it "Material"?
