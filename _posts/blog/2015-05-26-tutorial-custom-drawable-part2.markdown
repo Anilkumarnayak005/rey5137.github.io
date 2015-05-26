@@ -9,7 +9,7 @@ categories: blog
 tags:		Android Tutorial
 ---
 
-In [first part]({% post_url /blog/2015-05-25-tutorial-custom-drawable-part1 %}), I have shown you how to create a simple drawable and add it to a view. Now, we will try to customize it. Here is the result:
+In [first part]({{ site.baseurl }}{% post_url /blog/2015-05-25-tutorial-custom-drawable-part1 %}), I have shown you how to create a simple drawable and add it to a view. Now, we will try to customize it. Here is the result:
 ![]({{ site.baseurl }}/img/tutorial-custom-drawable/stateborder.gif){: .center-image }
 You can see that the border's color changed when we click on the view. Ok, let's do it.
 <br />
