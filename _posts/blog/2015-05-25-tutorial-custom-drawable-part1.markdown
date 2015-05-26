@@ -164,6 +164,6 @@ protected void onDraw(Canvas canvas) {
 	
 {% endhighlight %}
 
-Although you can extend ImageView class and draw the border directly in `onDraw(Canvas)` method, using Drawable is more reusable. In second part, I will show you how to create a state-based drawable.  
+Although you can extend ImageView class and draw the border directly in `onDraw(Canvas)` method, using Drawable is more reusable. In [second part]({% post_url /blog/2015-05-26-tutorial-custom-drawable-part2 %}), I will show you how to create a state-based drawable.  
 
 The source code is available on [Github](https://github.com/rey5137/tutorials/tree/add_drawable_to_view).
