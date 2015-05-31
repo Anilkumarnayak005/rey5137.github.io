@@ -149,6 +149,6 @@ When a drawable request the view to re-drawn (via `Callback#invalidateDrawable(D
 
 Let's run and see the result.  
 
-Now you know how to create a state-based drawable. In the last part, we will go to next level and make it animate between states.
+Now you know how to create a state-based drawable. In the [last part]({{ site.baseurl }}/blog/tutorial-custom-drawable-part3/), we will go to next level and make it animate between states.
 
 The source code is available on [Github](https://github.com/rey5137/tutorials/tree/add_drawable_to_view).
